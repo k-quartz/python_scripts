@@ -19,7 +19,7 @@ Enter Value of the maze : (Value can be any of the below)
 
 
 sample input maze
-O X X X 2
+O X X X 2<br>
 O 1 X 1 O
 X X X X O
 2 X X O O
