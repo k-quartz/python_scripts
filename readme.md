@@ -17,11 +17,13 @@ Enter Value of the maze : (Value can be any of the below)
 2. O (Capital O, not zero)
 3. X behaves like a wall
 
+
 sample input maze
 O X X X 2
 O 1 X 1 O
 X X X X O
 2 X X O O
+
 
 Output from above maze should be:
 . X X X 2
