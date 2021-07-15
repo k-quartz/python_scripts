@@ -1,8 +1,8 @@
-### This Repository has python scripts in separate branch. Check out particular branch.
+#### This Repository has python scripts in separate branch. Check out particular branch.
 
-# Branch Name:**maze_game_textual**
+## Branch Name:**maze_game_textual**
 
-## Desription : This is a textual maze game.
+### Desription : This is a textual maze game.
 Input is of the form 
 X by Y. It is not compulsory to be in square maze.
 
